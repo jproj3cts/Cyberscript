@@ -78,7 +78,7 @@ codex = {'a' : [1,1,1,-1,1,1,1],
         'z' : [1,1,-1,1,1,-1,1],
         ' ' : [-1,-1,-1,-1,-1,-1,-1]
 }
-test  = "The sky above the port was the color of television, tuned to a dead channel."
+test  = "It was a bright cold day in April, and the clocks were striking thirteen. "
 
 utterance = input('Scrawl...').lower()
 if utterance == '':
